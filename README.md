@@ -9,3 +9,4 @@ Solve all [Advent of Code 2025](https://adventofcode.com/2025/) challenges with 
 3. F#
 4. Typescript (JS)
 5. Ruby
+6. Python
