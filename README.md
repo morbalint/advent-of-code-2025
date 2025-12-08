@@ -1,6 +1,6 @@
 # The Challenge 
 
-Solve all Advent of Code 2025 challanges with a different programming language each day.
+Solve all [Advent of Code 2025](https://adventofcode.com/2025/) challenges with a different programming language each day.
 
 ## Languages used so far
 
