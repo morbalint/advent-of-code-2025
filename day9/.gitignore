@@ -22,3 +22,7 @@ Cargo.lock
 # OS files
 .DS_Store
 Thumbs.db
+
+# Generated visualization
+map.txt
+
